@@ -1,5 +1,4 @@
-# dash-tutorial
-Dash Tutorial
+# Dash Tutorial
 
 ```
 python3 app.py
