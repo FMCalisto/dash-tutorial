@@ -29,7 +29,13 @@ python3 app.py
 
 ## About
 
-The creation of this repository serves the purpose of the learning process regarding the [Dash](https://plot.ly/products/dash/) framework. It was developed by [Francisco Maria Calisto](http://www.franciscocalisto.me/) ([FMCalisto](https://github.com/FMCalisto)). The goal of this learning process was triggered by the need of gaining knowledge for the [WFex](https://github.com/opprDev/wfex) project.
+The creation of this repository serves the purpose of the learning process regarding the [Dash](https://plot.ly/products/dash/) framework. It was developed by [Francisco Maria Calisto](http://www.franciscocalisto.me/) ([FMCalisto](https://github.com/FMCalisto)). The goal of this learning process was triggered by the need of gaining knowledge for the [WFex](https://github.com/opprDev/wfex) project. This repository is the result of following several tutorials. First of all, we follow the [Dash Tutorial - Part 1: App Layout](https://dash.plot.ly/getting-started). Second, we follow the [Using Plotly’s Dash to deliver public sector decision support dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb) at [Medium.com](https://medium.com/) by [Adriano Yoshino](https://medium.com/@iamyoshi).
+
+### Acknowledgements
+
+- [Adriano Yoshino](https://medium.com/@iamyoshi)
+
+- [Varun Adibhatla](https://medium.com/@vr00n)
 
 ### License
 
