@@ -29,7 +29,7 @@ python3 app.py
 
 ## About
 
-The creation of this repository serves the purpose of the learning process regarding the Dash framework. It was developed by [Francisco Maria Calisto](http://www.franciscocalisto.me/) ([FMCalisto](https://github.com/FMCalisto)). The goal of this learning process was triggered by the need of gaining knowledge for the WFex project.
+The creation of this repository serves the purpose of the learning process regarding the [Dash](https://plot.ly/products/dash/) framework. It was developed by [Francisco Maria Calisto](http://www.franciscocalisto.me/) ([FMCalisto](https://github.com/FMCalisto)). The goal of this learning process was triggered by the need of gaining knowledge for the [WFex](https://github.com/opprDev/wfex) project.
 
 ### License
 
